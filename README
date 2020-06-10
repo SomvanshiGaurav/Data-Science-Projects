@@ -1,6 +1,8 @@
-FRIST LINE
-SECOND LINE
-THIRD LINNE
-FOURTH LINE
-FIFTH LINE
-ANOTHER LINE
+Data Visualization 
+  1. Matplotlib 
+  2. Seaborn
+  3. Pandas-in built 
+  4. Plotly
+  5. Cufflinks
+  6. Choropleth Maps
+  7. Bokeh
